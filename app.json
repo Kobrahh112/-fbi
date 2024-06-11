@@ -4,24 +4,24 @@
   "logo": "https://graph.org/file/5bc8daaefa9f7979cc8b7.jpg",
   "repository": "https://github.com/modymesourceze/hemaya",
     "env": {
-        "ELHYBA": {@VIP_KOPRA}
+        "ELHYBA": Kobra 
             "description": "Your Telegram Bot Token from @BotFather",
             "value": "7129982148:AAEBHnc-iR-I9wfjaFIqa8G2FTOPGiC_7kc"
         },
-        "API_ID": {27530560}
+        "API_ID": {27530560
             "description": "Your API Id from my.telegram.org",
             "value": ""
         },
-        "API_HASH": {c51c73887508a3a722d769ceae4fefd4}
+        "API_HASH": {c51c73887508a3a722d769ceae4fefd4
             "description": "Your API Hash from my.telegram.org",
             "value": ""
         },
-        "OWNER": {@VIP_KOPRA}
-            "description": "Your Id On Telegram",
-            "value": ""                                    
+        "OWNER": {@VIP_KOPRA
+            "description": "Kobra ",
+            "value": "2"                                    
 	   }
 	},
-  "buildpacks": [
+  "buildpacks": [https://dashboard.heroku.com/new?template=
     {
       "url": "heroku/python"
     }
