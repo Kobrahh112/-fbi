@@ -6,7 +6,7 @@
     "env": {
         "ELHYBA": 
             "description": "Your Telegram Bot Token from @BotFather",
-            "value": "7129982148:AAEBHnc-iR-I9wfjaFIqa8G2FTOPGiC_7kc"
+            "value": ""
         },
         "API_ID": {
             "description": "Your API Id from my.telegram.org",
