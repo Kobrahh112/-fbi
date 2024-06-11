@@ -4,7 +4,7 @@
   "logo": "https://graph.org/file/5bc8daaefa9f7979cc8b7.jpg",
   "repository": "https://github.com/modymesourceze/hemaya",
     "env": {
-        "ELHYBA": {
+        "ELHYBA": {@VIP_KOPRA
             "description": "Your Telegram Bot Token from @BotFather",
             "value": ""
         },
